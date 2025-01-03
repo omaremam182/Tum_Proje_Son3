@@ -1,11 +1,6 @@
 
-
-
-
-
-
 .main-style{
-    background-image: url('deneme.png');
+  background-color: #f0f8ff;
     font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
